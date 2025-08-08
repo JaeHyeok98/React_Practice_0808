@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React_Practice_0808/static/css/main.f855e6bc.css",
+    "main.js": "/React_Practice_0808/static/js/main.00678b32.js",
+    "static/media/뮤.png": "/React_Practice_0808/static/media/뮤.0d3347db3c4b8e25e8da.png",
+    "static/media/이상해꽃.png": "/React_Practice_0808/static/media/이상해꽃.9dfe9d0ee15ff30499e8.png",
+    "static/media/스라크.png": "/React_Practice_0808/static/media/스라크.60955acacb9035a99c19.png",
+    "static/media/피카츄.png": "/React_Practice_0808/static/media/피카츄.4f581389217d3004f1fc.png",
+    "static/media/피죤.png": "/React_Practice_0808/static/media/피죤.35c05189f85fbe542a4a.png",
+    "static/media/잠만보.png": "/React_Practice_0808/static/media/잠만보.19b2c7ac8582ef7c6c2e.png",
+    "static/media/라프라스.png": "/React_Practice_0808/static/media/라프라스.79a5503f932781068d15.png",
+    "static/media/메가리자몽X.png": "/React_Practice_0808/static/media/메가리자몽X.245b3b793ef2be256a7d.png",
+    "static/media/데구리.png": "/React_Practice_0808/static/media/데구리.572fcf1c14f220333121.png",
+    "static/media/꼬부기.png": "/React_Practice_0808/static/media/꼬부기.c83ffe722bc043f3b24b.png",
+    "static/media/오박사.jpg": "/React_Practice_0808/static/media/오박사.203c6a09284a75504517.jpg",
+    "index.html": "/React_Practice_0808/index.html",
+    "main.f855e6bc.css.map": "/React_Practice_0808/static/css/main.f855e6bc.css.map",
+    "main.00678b32.js.map": "/React_Practice_0808/static/js/main.00678b32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.00678b32.js"
+  ]
+}
